@@ -3,7 +3,7 @@
 	"description": "Creates steel from iron and coal.",
 	"type": "GenericCrafter",
 	"outputItem": {"item": "steel", "amount": "2"},
-	"consumes": {
+	"inputItem": {
 		"power": 0.75,
 		"items": {
 			"items": [
